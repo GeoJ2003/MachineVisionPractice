@@ -2,6 +2,7 @@ import cv2
 import mediapipe as mp
 import time
 
+#Grabs my webcam
 cap = cv2.VideoCapture(0)
 
 while True:
